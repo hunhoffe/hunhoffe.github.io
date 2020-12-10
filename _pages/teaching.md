@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-** Graduate Teaching Assistant for CSCI 2400 Computer Systems **
+**Graduate Teaching Assistant for CSCI 2400 Computer Systems**
 University of Colorado Boulder, Computer Science Department
 2020 Spring
 
@@ -14,7 +14,7 @@ system concepts essential for efficient and programmers, such as reading assembl
 operators, and data representations such as two's complement. Served as instructor for a lab-based recitation section with 
 approximately 40 students, conducted interview grading, and led office hours. 
 
-** Graduate Teaching Assistant for CSCI 3753 Operating Systems **
+**Graduate Teaching Assistant for CSCI 3753 Operating Systems**
 University of Colorado Boulder, Computer Science Department
 2019 Fall
 
@@ -22,7 +22,7 @@ Graduate teaching assistant for a junior-level undergraduate operating systems c
 multithreading, and scheduling algorithms. Responsibilities included conducting a weekly recitation lecture for approximately 35 
 students, performing interview grading, answering student questions, and collaborating with the professor and other teaching assistants.
 
-** Undergraduate Teaching Assistant for MATH 420 Real Analysis **
+**Undergraduate Teaching Assistant for MATH 420 Real Analysis**
 George Fox University, Mathematics Department
 2014 Fall
 
