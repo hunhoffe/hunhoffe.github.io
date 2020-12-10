@@ -10,7 +10,8 @@ I am a second year PhD student in the computer science department at the Univers
 I received my BS in Computer Science and BS in Mathematics from George Fox University (Newberg, OR) in May 2015. After graduation, I worked in public industry for four years before returning to academia.
 
 ### Updates
-* **2020 Oct:** Our paper "Proactive Serverless Function Research Management" was accepted to [Workshop on Serverless Computing 2020 (WoSC6)](https://www.serverlesscomputing.org/wosc6/)! [[Paper PDF](../files/wosc6.pdf)]
+* **2020 Dec:** I presented our paper, "Proactive Serverless Function Resource Management" at WoSC6! [[Recording (Backup Presentation)](https://youtu.be/fMQvhkuqnmc)] [Recording (Official) - Coming soon!] [[Conference Webpage](https://www.serverlesscomputing.org/wosc6/#p11)] [[Slides PDF](../assets/files/wosc6.pdf)]
+* **2020 Oct:** Our paper "Proactive Serverless Function Resource Management" was accepted to [Workshop on Serverless Computing 2020 (WoSC6)](https://www.serverlesscomputing.org/wosc6/)! [[Paper PDF](../assets/files/wosc6.pdf)]
 * **2020 Summer:** Awarded Dean’s Summer Research Fellowship - Thanks University of Colorado Boulder!
 * **2020 Feb:** Presented poster "Network Connection Optimization for Ephemeral Serverless Workloads" on preliminary research with Eric Rozner at NSDI 2020 [[Poster PDF](../files/nsdi2020_poster.pdf)]
 * **2020 Feb:** Awarded NSDI 2020 Student Travel Grant - Thanks USENIX & sponsors!
