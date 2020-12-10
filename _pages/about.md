@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About"
+layout: home
 
 defaults:
   # _pages
