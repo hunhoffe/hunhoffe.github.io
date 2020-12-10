@@ -1,11 +1,16 @@
 ---
-permalink: /
+permalink: /about/
 title: "About"
 excerpt: "About"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 
 I am a second year PhD student in the computer science department at the University of Colorado Boulder. My advisor is [Dr. Eric Rozner](http://ericrozner.com/) and I am a member of the [CU Boulder Interconnected Systems and Optimized Networks (BISON) Lab](http://ericrozner.com/bison/index.html). I am broadly interested in operating systems, networking, and scalable systems research, and have recently been focusing on networking optimizations for serverless workloads. I am currently a graduate research assistant.
