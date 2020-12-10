@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
 * **Proactive Serverless Resource Management**
 Erika Hunhoff, Shazal Irshad, Vijay Thurimella, Ali Tariq, Eric Rozner.
 ACM Sixth International Workshop on Serverless Computing (WoSC6), TU Delft, Netherlands, 2020.
