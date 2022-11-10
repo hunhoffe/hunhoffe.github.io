@@ -209,7 +209,7 @@ scholar:
   last_name: [Hunhoff]
   first_name: [Erika]
 
-  style: acm
+  style: apa
   locale: en
 
   source: /_bibliography/
