@@ -2,14 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Graduate teaching assistant for the computer science department for two semesters at the University of Colorado, Boulder. Undergraduate teaching assistent for the mathematics department for one semester at George Fox University. 3+ years experience as a calculus tutor.
+description: Experience as a graduate and undergraduate teaching assistant.
 nav: true
 nav_order: 5
 ---
 
-### Graduate Teaching Experience
-
-#### CSCI 2400 Computer Systems
+#### Graduate Teaching Assistant for CSCI 2400 Computer Systems
 ###### University of Colorado Boulder, Computer Science Department
 ###### Spring 2020
 
@@ -17,8 +15,7 @@ Graduate Teaching Assistant for CSCI2400 Computer Systems, a sophomore-level und
 
 Successfully transitions from in-person modality to virtual.
 
-#### CSCI 3753 Operating Systems
-###### Graduate Teaching Assistant
+#### Graduate Teaching Assistant for CSCI 3753 Operating Systems
 ###### University of Colorado Boulder, Computer Science Department
 ###### Fall 2019
 
