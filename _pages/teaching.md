@@ -7,6 +7,7 @@ nav_order: 2
 socials: true
 ---
 
+
 #### Graduate Teaching Assistant for CSCI 2400 Computer Systems
 ###### University of Colorado Boulder, Computer Science Department, Spring 2020
 
@@ -29,3 +30,5 @@ socials: true
 
 * MATH 420 is an upper-divsion mathematics course on Real Analysis
 * Duties included grading assignments and assisting small groups with exercises during class
+
+
