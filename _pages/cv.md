@@ -8,3 +8,5 @@ socials: true
 ---
 
 CV and resume available upon [request](mailto:erika.hunhoff@colorado.edu).
+
+---
