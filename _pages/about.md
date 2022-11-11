@@ -14,6 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+---
+
 I am a fourth year PhD student in the computer science department at the University of Colorado, Boulder. I am co-advised by Dr. [Eric Rozner](http://ericrozner.com/) and Dr. [Eric Keller](https://eric-keller.github.io/). I am broadly interested in operating systems, networking, and scalable systems research.
 
 In my time at CU Boulder, I've mainly focused on resource management and networking for serverless and other containerized cloud workloads. I am also working with Gerd Zellweger of VMware Research on a distributed operating systems project. I am very generously supported by a 2021 Google PhD Fellowship.

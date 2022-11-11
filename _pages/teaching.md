@@ -7,8 +7,10 @@ nav_order: 2
 social: true
 ---
 
+---
+
 <h5>Graduate Teaching Assistant for CSCI 2400 Computer Systems</h5>
-<h6>University of Colorado Boulder, Computer Science Department, Spring 2020</h6>
+<b>University of Colorado Boulder, Computer Science Department, Spring 2020</b>
 
 <ul>
     <li>CSCI2400 Computer Systems is a sophomore-level undergraduate course</li>
@@ -21,7 +23,7 @@ social: true
 ---
 
 <h5>Graduate Teaching Assistant for CSCI 3753 Operating Systems</h5>
-<h6>University of Colorado Boulder, Computer Science Department, Fall 2019</h6>
+<b>University of Colorado Boulder, Computer Science Department, Fall 2019</b>
 
 <ul>
     <li>CSCI 3753 is a junior-level undergraduate operating systems course</li>
@@ -33,7 +35,7 @@ social: true
 ---
 
 <h5>Undergraduate Teaching Assistant for MATH 420 Real Analysis</h5>
-<h6>George Fox University, Mathematics Department, Spring 2014</h6>
+<b>George Fox University, Mathematics Department, Spring 2014</b>
 
 <ul>
     <li>MATH 420 is an upper-divsion mathematics course on Real Analysis</li>
