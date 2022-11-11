@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: socials_page
 permalink: /cv/
 title: cv
 nav: true

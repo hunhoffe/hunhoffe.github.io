@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: socials_page
 permalink: /teaching/
 title: teaching
 nav: true

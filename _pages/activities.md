@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: socials_page
 title: activites
 permalink: /activities/
 nav: true
