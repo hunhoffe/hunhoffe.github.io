@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Experience as a graduate and undergraduate teaching assistant.
 nav: true
 nav_order: 5
