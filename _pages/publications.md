@@ -23,6 +23,5 @@ ACM Sixth International Workshop on Serverless Computing (WoSC6), TU Delft, Neth
 ###### Network Connection Optimization for Serverless Workloads <a href="{{ 'nsdi2020_poster.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>
 <b>Erika Hunhoff</b>, Eric Rozner.<br>
 USENIX Symposium on Networked Systems Design and Implementation (NSDI), Santa Clara, CA, Feb 2020. <br>
-<a href="{{ 'nsdi2020_poster.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a><br>
 
 ---
