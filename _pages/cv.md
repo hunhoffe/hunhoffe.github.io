@@ -1,12 +1,13 @@
 ---
 layout: socials_page
-permalink: /cv/
-title: cv
+title: contact
+permalink: /contact/
 nav: true
-nav_order: 4
-socials: true
+nav_order: 5
+social: true
 ---
 
-CV and resume available upon [request](mailto:erika.hunhoff@colorado.edu).
+CV and resume avilable upon
+<a href='mailto:erika.hunhoff@colorado.edu'>request</a><br />
 
 ---
