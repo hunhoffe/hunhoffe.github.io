@@ -1,7 +1,7 @@
 ---
 layout: socials_page
-title: contact
-permalink: /contact/
+title: cv
+permalink: /cv/
 nav: true
 nav_order: 5
 social: true
