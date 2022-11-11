@@ -9,8 +9,6 @@ nav_order: 1
 social: true
 ---
 
----
-
 <!-- _pages/publications.md -->
 <div class="publications">
 
