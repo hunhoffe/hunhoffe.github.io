@@ -32,7 +32,7 @@ socials: true
 
 ---
 
-<h5>Undergraduate Teaching Assistant for MATH 420 Real Analysis<h5>
+<h5>Undergraduate Teaching Assistant for MATH 420 Real Analysis</h5>
 <h6>George Fox University, Mathematics Department, Spring 2014</h6>
 
 <ul>
