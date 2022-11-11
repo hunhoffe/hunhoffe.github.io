@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer science PhD student @ [University of Colorado, Boulder](https://www.colorado.edu/) | Google PhD Fellow | Former Research Intern @ [VMware](https://research.vmware.com/).
+subtitle: Computer science PhD student @ <a href='https://www.colorado.edu/'>University of Colorado, Boulder</a> | Google PhD Fellow | Former Research Intern @ <a href='https://research.vmware.com/'>VMware</a>
 
 profile:
   align: right
