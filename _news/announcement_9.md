@@ -4,4 +4,4 @@ date: 2023-04-17 07:59:00-0400
 inline: true
 ---
 
-Thank you to USENIX for their generous awards of student grant and thank you to N2Women for their generous award of NSDI '23 N2Women Fellowship towards my attendance at NSDI!
+Awarded USENIX student grant & N2Women NSDI '23 Fellowship towards my attendance at NSDI! I greatly benefited from attending the conference, and the N2Women luncheon was a highlight of my time.
