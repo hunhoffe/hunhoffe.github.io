@@ -20,7 +20,7 @@ IEEE International Conference on Distributed Computing Systems (ICDCS), Bologna,
 ACM Sixth International Workshop on Serverless Computing (WoSC6), TU Delft, Netherlands, 2020.<br>
 
 #### Posters
-###### <b>An Operating System for Disaggregation with Coherence</b> <a href="{{ 'OSDI2020_Poster.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>
+###### <b>An Operating System for Disaggregation with Coherence</b> <a href="{{ 'OSDI2023_Poster.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>
 <b>Erika Hunhoff</b>, Gerd Zellweger, Eric Keller.<br>
 USENIX Symposium on Operating Systems Design and Implementation (OSDI), Boston, MA, Jul 2023. <br>
 
