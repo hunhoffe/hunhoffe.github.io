@@ -11,7 +11,7 @@ social: true
 
 #### Conference papers
 
-###### <b>[Distinguished Paper Award] LinuxFP: Transparently Accelerating Linux Networking</b> <a href="{{ 'linuxfp.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>
+###### <b>[Distinguished Paper Award] LinuxFP: Transparently Accelerating Linux Networking</b> <a href="{{ 'linuxfp_icdcs24.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>
 Marcelo Abranches, <b>Erika Hunhoff</b>, Rohan Eswara, Oliver Michel, and Eric Keller. <br>
 IEEE International Conference on Distributed Computing Systems (ICDCS), Jersey City, NJ, USA, July 2024. <br>
 
