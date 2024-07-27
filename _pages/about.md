@@ -16,9 +16,9 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am a fifth year PhD student in the computer science department at the University of Colorado, Boulder. I am co-advised by Dr. [Eric Keller](https://eric-keller.github.io/) and Dr. [Eric Rozner](http://ericrozner.com/). I am broadly interested in operating systems, networking, and scalable systems research.
+I am a sixth year PhD candidate in the computer science department at the University of Colorado, Boulder. I am advised by Dr. [Eric Keller](https://eric-keller.github.io/) (and formerly advised by Dr. [Eric Rozner](http://ericrozner.com/)). I am broadly interested in operating systems, networking, and scalable systems research.
 
-In my time at CU Boulder, I've mainly focused on resource management and networking for containerized cloud workloads, including serverless. I am also working with Gerd Zellweger (formerly of VMware Research) on a distributed operating systems project. I am very generously supported by a 2021 Google PhD Fellowship.
+In my time at CU Boulder, I've mainly focused on resource management and networking for containerized cloud workloads, including serverless. I am also working with Gerd Zellweger (formerly of VMware Research) on a distributed operating systems project. I am currently a co-op with AMD RAD (Research And Development). Previously, I was generously supported by a 2021 Google PhD Fellowship. I anticipate graduation in 2025.
 
 I received my BS in Computer Science and BS in Mathematics from George Fox University (Newberg, OR) in May 2015. After graduation, I worked in public industry for several years before returning to academia.
 
