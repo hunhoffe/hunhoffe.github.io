@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science PhD Candidate @ <a href='https://www.colorado.edu/'>CU Boulder</a> | Co-op @ https://www.amd.com/en/corporate/research.html <a href='https://www.amd.com/en/corporate/research.html'>AMD RAD</a> | <a href='https://research.google/outreach/phd-fellowship/'>Former Google PhD Fellow</a> | Former Intern @ <a href='https://research.vmware.com/'>VMware Research</a>
+subtitle: Computer Science PhD Candidate @ <a href='https://www.colorado.edu/'>CU Boulder</a> | Co-op @ <a href='https://www.amd.com/en/corporate/research.html'>AMD RAD</a> | Former <a href='https://research.google/outreach/phd-fellowship/'>Google PhD Fellow</a> | Former Intern @ <a href='https://research.vmware.com/'>VMware Research</a>
 
 profile:
   align: right
